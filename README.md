@@ -2,6 +2,8 @@
 
 The original [LeNet-5] with adapted fully connected layers to classify [traffic signs].
 
+![lenet5_arch](https://user-images.githubusercontent.com/33037020/193161551-7e55966e-d241-4771-9741-c9aff18bfff0.PNG)
+
 ---
 
 ## Problem Overview
